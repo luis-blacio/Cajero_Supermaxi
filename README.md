@@ -14,6 +14,6 @@ Ing. Edison Coronel.
 - Luis Blacio.
   luis.blacio@unl.edu.ec
 
-  #Diagrama UML
-![![WhatsApp Image 2025-01-20 at 18 01 55](https://github.com/user-attachments/assets/092ea08f-d84f-403a-912e-92df733c81c9)
+  # Diagrama UML
+![WhatsApp Image 2025-01-20 at 18 01 55](https://github.com/user-attachments/assets/092ea08f-d84f-403a-912e-92df733c81c9)
 
